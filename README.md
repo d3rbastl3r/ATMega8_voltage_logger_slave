@@ -1,4 +1,4 @@
- # ATMega8 single cell voltage reader slave
+ # ATMega8 voltage logger slave
  Read the voltage of a single cell and transport the data to the master device
  
  # PIN Assignments
