@@ -6,13 +6,13 @@ Overview of used Pins
  
 ## Port B
 - PB0 ?
-- PB1 ?
-- PB2 ? SS    | ?
-- PB3 ? MOSI  | ?
-- PB4 ? MISO  | ?
-- PB5 ? SCK   | ?
-- PB6 - XTAL  | 1.8432 MHz Crystal
-- PB7 - XTAL  | 1.8432 MHz Crystal
+- PB1 ? OC1A    | PWM ?
+- PB2 ? SS      | SPI ?
+- PB3 ? MOSI    | SPI ?
+- PB4 ? MISO    | SPI ?
+- PB5 ? SCK     | SPI ?
+- PB6 - XTAL    | 1.8432 MHz Crystal
+- PB7 - XTAL    | 1.8432 MHz Crystal
 
 ## Port C
 - PC0 ?
@@ -26,7 +26,7 @@ Overview of used Pins
 ## Port D
 - PD0 ? RXD   | ?
 - PD1 ? TXD   | ?
-- PD2 ? INT0  | Wake Up Interrupt
+- PD2 - INT0  | Wake Up Interrupt
 - PD3 ? INT1  | ?
 - PD4 ?
 - PD5 ?
