@@ -2,6 +2,7 @@
  Read the voltage of a single cell and transport the data via to the master device
  
  # PIN Assignments
+ Overview of used Pins
  
  ## Port B
  - PB0 ?
