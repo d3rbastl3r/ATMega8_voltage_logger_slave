@@ -1,1 +1,1 @@
-# ATMega8_voltage_logger_slave
+# ATMega8 voltage logger slave
