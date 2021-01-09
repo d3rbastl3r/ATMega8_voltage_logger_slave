@@ -1,5 +1,5 @@
  # ATMega8 single cell voltage reader slave
- Read the voltage of a single cell and transport the data via to the master device
+ Read the voltage of a single cell and transport the data to the master device
  
  # PIN Assignments
  Overview of used Pins
